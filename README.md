@@ -19,3 +19,26 @@
 ## Using another example 
 
 ![](./Permission3.png)
+
+
+
+# User Managemnet on Linux
+
+
+## Creating User John Doe and giving administrative priviledges 
+
+![](./creating_user.png)
+
+
+## Password change for JohnDoe
+
+![](./password.png)
+
+## Group Creation and verification
+
+![](./gp_creation.png)
+
+
+## User deletion and Permission
+
+![](./user_del_and_per.png)
